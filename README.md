@@ -56,7 +56,10 @@ Compete
 ### Diverse Generation with Night to Day task
 <img src="Image/day_compete_sum_score_5_p.png" width="900px"/> <br> 
 
+### CMP Facade dataset
+<img src="Image/facade/78000_train_res.png" width="900px"/> <br> 
 
+<img src="Image/facade/80000_train_res.png" width="900px"/> <br> 
 
 
 ## Citation
