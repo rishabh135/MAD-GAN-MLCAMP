@@ -37,8 +37,6 @@ python madgan_compete.py --mode train --output_dir madgan_facades_train --max_ep
 
 ```
 
-
-
 ## Datasets and Trained Models
 
 The data format used by this program is the same as the original pix2pix format, which consists of images of input and desired output side by side.
