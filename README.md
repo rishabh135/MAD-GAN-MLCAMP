@@ -45,6 +45,19 @@ Some datasets have been made available by the authors of the pix2pix paper.  To 
 
 Tip : The `facades` dataset is the smallest and easiest to get started with.
 
+## Results
+### With Amazon Handbag Dataset
+
+Classification
+<img src="Image/bags_classifying_5_p.png" width="900px"/> <br> 
+Compete
+<img src="Image/bags_compete_5_p.png" width="900px"/> <br> 
+
+### Diverse Generation with Night to Day task
+<img src="Image/day_compete_sum_score_5_p.png" width="900px"/> <br> 
+
+
+
 
 ## Citation
 If you use this code for your research, please cite the papers this code is based on: <a href="https://arxiv.org/pdf/1611.07004v1.pdf">Image-to-Image Translation Using Conditional Adversarial Networks</a>: <a href="https://arxiv.org/abs/1704.02906.pdf"> Multi Agent Diverse Generative Adversarial Networks</a>:
